@@ -20,3 +20,9 @@ function multiply(num1=1, num2=1){
 multiply(5,5)
 multiply()
 
+// some thumb rules for default value.
+// add, subs ---- 0
+// multiply ---- 1
+// string ---- ''
+// array ---- []
+// object ---- {}
