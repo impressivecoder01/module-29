@@ -1,4 +1,4 @@
-// es6
+// es6 intro different between var let and const
 const nam = 'bangladesh';
 const nowName = 'bd' + ' '+ nam
 console.log(nowName)
